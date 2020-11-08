@@ -3,8 +3,14 @@
   <title>Weather</title>
 </head>
 
-<body background="photo.png">
+<body>
 <style>
+  
+  body {
+  background-image: url('photo.png');
+  background-size: cover;
+  background-position: top center;
+}
  
  .border{
    border: 1px solid white;
